@@ -1,0 +1,40 @@
+
+.button-content {
+    width: 250px;
+    height: 80px;
+    border-radius: 9px;
+    border: solid #AEAEAE;
+    color: #555555;
+    margin-left: 12px;
+    font-size: 24px;
+    text-transform: capitalize;
+    background: linear-gradient(#eeeeee, rgba(171, 171, 172, 0.89));
+    font-weight: bold;
+    letter-spacing: -1.5px;
+    text-shadow: 0px 0px 10px rgba(171, 171, 172, 0.76);
+    box-shadow: 0px 0px 4px 1px #555555,
+    0px 0px 0px 9px #CBCBCB,
+    0px 0px 0px 12px #FFFFFF,
+    0px 0px 0px 14px #8F8F8F;
+
+}
+
+
+.fa-star {
+    color: #878787;
+}
+
+.icon-logo:hover {
+    opacity: 0;
+
+}
+
+.devider {
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+
+
